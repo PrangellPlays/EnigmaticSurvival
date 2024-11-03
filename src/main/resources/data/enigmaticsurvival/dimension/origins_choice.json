@@ -1,0 +1,13 @@
+{
+  "type": "enigmaticsurvival:origins_choice",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "enigmaticsurvival:origins_choice",
+      "lakes": false,
+      "features": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

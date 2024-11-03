@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "enigmaticsurvival:block/lectern",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "enigmaticsurvival:block/lectern"
+    },
+    "facing=south": {
+      "model": "enigmaticsurvival:block/lectern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "enigmaticsurvival:block/lectern",
+      "y": 270
+    }
+  }
+}

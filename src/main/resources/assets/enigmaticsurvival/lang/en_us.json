@@ -1,0 +1,44 @@
+{
+  "__Comment": "Blocks",
+  "block.enigmaticsurvival.clear_barrier": "Clear Barrier",
+  "block.enigmaticsurvival.prangellplays_choice_lectern": "Choice Lectern (Origin: PrangellPlays)",
+  "block.enigmaticsurvival.blimptyler_choice_lectern": "Choice Lectern (Origin: BlimpTyler)",
+  "block.enigmaticsurvival.potatoboy_choice_lectern": "Choice Lectern (Origin: PotatoBoy)",
+  "block.enigmaticsurvival.semmpie_choice_lectern": "Choice Lectern (Origin: Semmpie)",
+  "block.enigmaticsurvival.danipadipa_choice_lectern": "Choice Lectern (Origin: Danipadipa)",
+  "block.enigmaticsurvival.alopeciagaming_choice_lectern": "Choice Lectern (Origin: AlopeciaGaming)",
+  "block.enigmaticsurvival.skynovic_choice_lectern": "Choice Lectern (Origin: Skynovic)",
+  "block.enigmaticsurvival.iiwaterdragon_choice_lectern": "Choice Lectern (Origin: iiWaterDragon)",
+
+  "block.enigmaticsurvival.nitwit_choice_lectern": "Choice Lectern (Class: Nitwit)",
+  "block.enigmaticsurvival.farmer_choice_lectern": "Choice Lectern (Class: Farmer)",
+  "block.enigmaticsurvival.rancher_choice_lectern": "Choice Lectern (Class: Rancher)",
+  "block.enigmaticsurvival.miner_choice_lectern": "Choice Lectern (Class: Miner)",
+  "block.enigmaticsurvival.lumberjack_choice_lectern": "Choice Lectern (Class: Lumberjack)",
+  "block.enigmaticsurvival.cook_choice_lectern": "Choice Lectern (Class: Cook)",
+  "block.enigmaticsurvival.blacksmith_choice_lectern": "Choice Lectern (Class: Blacksmith)",
+  "block.enigmaticsurvival.cleric_choice_lectern": "Choice Lectern (Class: Cleric)",
+  "block.enigmaticsurvival.merchant_choice_lectern": "Choice Lectern (Class: Merchant)",
+  "block.enigmaticsurvival.explorer_choice_lectern": "Choice Lectern (Class: Explorer)",
+  "block.enigmaticsurvival.warrior_choice_lectern": "Choice Lectern (Class: Warrior)",
+  "block.enigmaticsurvival.archer_choice_lectern": "Choice Lectern (Class: Archer)",
+  "block.enigmaticsurvival.rogue_choice_lectern": "Choice Lectern (Class: Rogue)",
+  "block.enigmaticsurvival.beastmaster_choice_lectern": "Choice Lectern (Class: Beastmaster)",
+
+  "block.enigmaticsurvival.choice_lectern_blank_single": "Choice Lectern (Blank Single)",
+  "block.enigmaticsurvival.choice_lectern_blank_dual": "Choice Lectern (Blank Dual)",
+
+  "__Comment": "Items",
+  "item.enigmaticsurvival.enigmatic_survival_logo": "Logo",
+  "item.enigmaticsurvival.cyber_scythe": "Cyber Scythe",
+
+  "__Comment": "Item Group",
+  "itemgroup.enigmaticsurvival.items": "Enigmatic Survival: Items",
+  "itemgroup.enigmaticsurvival.lecterns": "Enigmatic Survival: Lecterns",
+
+  "__Comment": "Keybinds",
+  "category.enigmaticsurvival": "Enigmatic Survival",
+  "key.enigmaticsurvival.swapWeaponAbility": "Swap Weapon Ability",
+  "key.enigmaticsurvival.select_weapon": "Select Weapon Slot",
+  "key.enigmaticsurvival.swap_weapon": "Swap with Weapon Slot"
+}

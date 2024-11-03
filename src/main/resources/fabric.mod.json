@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "enigmaticsurvival",
+	"version": "${version}",
+	"name": "Enigmatic Survival",
+	"description": "Enigmatic Survival Mod made for the Enigmatic Survival Minecraft Server",
+	"authors": [
+		"PrangellPlays"
+	],
+	"contributors": [
+		""
+	],
+	"license": "All Rights Reserved",
+	"icon": "assets/enigmaticsurvival/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"preLaunch": [
+			"dev.prangellplays.enigmaticsurvival.EnigmaticSurvivalPreLaunch"
+		],
+		"main": [
+			"dev.prangellplays.enigmaticsurvival.EnigmaticSurvival"
+		],
+		"client": [
+			"dev.prangellplays.enigmaticsurvival.EnigmaticSurvivalClient"
+		],
+		"fabric-datagen": [
+			"dev.prangellplays.enigmaticsurvival.EnigmaticSurvivalDataGenerator"
+		],
+		"cardinal-components-entity": [
+			"dev.prangellplays.enigmaticsurvival.init.EnigmaticSurvivalComponents"
+		]
+	},
+	"mixins": [
+		"enigmaticsurvival.mixins.json"
+	],
+	"accessWidener": "enigmaticsurvival.accesswidener",
+	"custom": {
+		"cardinal-components": [
+			"enigmaticsurvival:recoverypos",
+			"enigmaticsurvival:backweapon"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
